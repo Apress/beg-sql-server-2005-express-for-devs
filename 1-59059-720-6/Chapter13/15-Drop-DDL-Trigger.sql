@@ -1,0 +1,1 @@
+DROP TRIGGER trgSprocs ON DATABASE

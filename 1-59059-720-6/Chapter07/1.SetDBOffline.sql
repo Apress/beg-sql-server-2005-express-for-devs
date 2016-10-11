@@ -1,0 +1,4 @@
+USE master
+GO
+ALTER DATABASE ApressFinancial 
+SET OFFLINE

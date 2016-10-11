@@ -1,0 +1,2 @@
+SELECT CustomerFirstName,CustomerLastName,ClearedBalance
+FROM CustomerDetails.Customers

@@ -1,0 +1,3 @@
+DECLARE @IsNull char(10)
+SET @IsNull = NULL
+SELECT ISNULL(@IsNull,GETDATE())

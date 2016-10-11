@@ -1,0 +1,1 @@
+SELECT * FROM TransactionDetails.Transactions WHERE TransactionId = 1

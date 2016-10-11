@@ -1,0 +1,3 @@
+CREATE PROCEDURE Test1
+AS
+SELECT 'Hello all'

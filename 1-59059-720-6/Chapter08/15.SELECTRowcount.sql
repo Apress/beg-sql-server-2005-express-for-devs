@@ -1,0 +1,4 @@
+SET ROWCOUNT 3
+SELECT * FROM ShareDetails.Shares
+SET ROWCOUNT 0
+SELECT * FROM ShareDetails.Shares

@@ -1,0 +1,5 @@
+USE [master]
+GO
+CREATE LOGIN [XP-HOME\AJMason]
+FROM WINDOWS
+GO

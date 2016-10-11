@@ -1,0 +1,1 @@
+SELECT 'A'+STR(82)
